@@ -1,0 +1,3 @@
+https://github.com/parthoiiitm/Data-Wrangling-with-OpenStreetMap/blob/master/Udacity%20Project%203%20-%20Wrangling%20OpenStreetMap%20Data%20.ipynb 
+https://github.com/pratyush19/Udacity-Data-Analyst-Nanodegree/tree/master/P3-OpenStreetMap-Wrangling-with-SQL  
+http://wiki.openstreetmap.org/wiki/OSM_XML  
